@@ -1,0 +1,11 @@
+{
+    "name": "arron/interview-project-1",
+    "autoload": {
+        "psr-4": {
+            "InterviewProject\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
